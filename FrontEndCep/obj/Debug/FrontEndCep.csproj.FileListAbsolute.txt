@@ -1,0 +1,157 @@
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\obj\Debug\FrontEndCep.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\FrontEndCep.dll.config
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\FrontEndCep.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\FrontEndCep.pdb
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\csc.exe
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\csc.exe.config
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\csc.rsp
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\csi.exe
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\csi.exe.config
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\csi.rsp
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.AppContext.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Console.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.IO.Compression.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Claims.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.ValueTuple.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\vbc.exe
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\vbc.exe.config
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\vbc.rsp
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\VBCSCompiler.exe
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Net.Http.Formatting.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Helpers.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Mvc.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Razor.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.Razor.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\Newtonsoft.Json.xml
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Net.Http.Formatting.xml
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Razor.xml
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.xml
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.Razor.xml
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Helpers.xml
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\System.Web.Mvc.xml
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\obj\Debug\FrontEndCep.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\obj\Debug\FrontEndCep.dll
+C:\Users\Aluno\Desktop\Adão aula3\FrontEndCep\FrontEndCep\obj\Debug\FrontEndCep.pdb
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\FrontEndCep.dll.config
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\FrontEndCep.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\FrontEndCep.pdb
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\csc.exe
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\csc.exe.config
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\csc.rsp
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\csi.exe
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\csi.exe.config
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\csi.rsp
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.AppContext.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Console.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.IO.Compression.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.IO.Pipes.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Claims.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.ValueTuple.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\vbc.exe
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\vbc.exe.config
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\vbc.rsp
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\VBCSCompiler.exe
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\Newtonsoft.Json.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Net.Http.Formatting.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Helpers.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Mvc.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Razor.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.Deployment.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.Razor.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\Newtonsoft.Json.xml
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Net.Http.Formatting.xml
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Razor.xml
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.xml
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.Deployment.xml
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Webpages.Razor.xml
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Helpers.xml
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\System.Web.Mvc.xml
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Razor.resources.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Webpages.resources.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Webpages.Deployment.resources.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Webpages.Razor.resources.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Helpers.resources.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\bin\pt-br\System.Web.Mvc.resources.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\obj\Debug\FrontEndCep.csprojAssemblyReference.cache
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\obj\Debug\FrontEndCep.csproj.CoreCompileInputs.cache
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\obj\Debug\FrontEndCep.csproj.CopyComplete
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\obj\Debug\FrontEndCep.dll
+C:\Users\jr\Documents\.net\CursoWebApi\FrontEndCep\FrontEndCep\obj\Debug\FrontEndCep.pdb
